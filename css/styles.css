@@ -79,4 +79,6 @@ ul li {
   font-size: 11px; text-align: center;
 }
 
-.attribution a { color: #FFF; }
+.attribution a {
+  color: #FFF;
+}
