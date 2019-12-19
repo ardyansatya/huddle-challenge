@@ -24,7 +24,7 @@ main {
 
 .left {
   margin-right: 2rem;
-  padding-top: 4rem;
+  padding-top: 2.5rem;
 }
 
 .right {
@@ -91,11 +91,16 @@ ul li {
     background-repeat: no-repeat;
     background-size: contain;
   }
-
-main {
-  display: flex;
-  flex-direction: column;
-}
+  
+  main {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+  }
 
   h1 {
     text-align: center;
